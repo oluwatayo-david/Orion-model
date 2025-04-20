@@ -1,0 +1,22 @@
+Transation Amount,Date,Category,Description
+1000 12/12/2024 Debit buying bread
+1001 12/13/2024 Credit Given from mom
+10025 12/14/2024 Credit Given from Dad
+1013 12/15/2024 Debit buying bread
+1014 12/16/2024 Debit buying slippers
+1015 12/17/2024 Debit buying knives
+1026 12/18/2024 Debit buying books
+1027 12/19/2024 Debit buying bread
+1000 12/20/2024 Debit buying bread
+1001 12/21/2024 Credit Given from mom
+1002 12/22/2024 Credit Given from Dad
+1013 12/23/2024 Debit buying bread
+1014 12/24/2024 Debit buying slippers
+1015 12/25/2024 Debit buying knives
+1026 12/26/2024 Debit buying books
+1027 12/27/2024 Debit buying bread
+1000 12/28/2024 Debit buying bread
+1001 12/29/2024 Credit ,Given from mom
+1002 12/30/2024 Credit ,Given from Dad
+1013 12/31/2024 Debit buying bread
+100130 01/01/2025 Debit buying a new car
