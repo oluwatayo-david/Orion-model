@@ -1,2 +1,3 @@
 venv/
 .env
+embeddings/chroma_db/32c1708c-be7a-487e-a801-c38c48bab0ce/length.bin
